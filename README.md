@@ -1,2 +1,6 @@
 # cafe_pos_prototype
-Class prototype for point of sale for cafe with PHP
+import db.sql into MySQL
+
+change database parameters as require in cafe/configs/database.php
+
+open terminal and run "php new_invoice.php"
